@@ -76,7 +76,7 @@ export default function Home() {
         <Link href="/detail">Item Add</Link>
       </section>
       <section>
-        리스트
+        리스트 haha
         <ol>
           <li>1asdf</li>
           <li>2asdf</li>
