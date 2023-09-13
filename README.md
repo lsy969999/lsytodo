@@ -10,3 +10,8 @@ npm install dexie
 npm install @types/dexie
 npm install dexie-react-hooks   
 ```
+
+editorjs install
+```
+npm i @editorjs/editorjs --save
+```
