@@ -82,6 +82,9 @@ export default function Home() {
           <li>2asdf</li>
         </ol>
       </section>
+      <section>
+      <Link href="/proto/flutter">fct</Link>
+      </section>
     </main>
   )
 }
