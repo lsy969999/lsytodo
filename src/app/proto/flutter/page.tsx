@@ -3,7 +3,7 @@
 import Link from 'next/link'
 import React, { useEffect } from 'react'
 
-const page = () => {
+const Flutter = () => {
     useEffect(()=>{
         window.addEventListener('flutterInAppWebViewPlatformReady', function(event){
             console.log('events', JSON.stringify(event))
@@ -17,4 +17,4 @@ const page = () => {
     )
 }
 
-export default page
+export default Flutter
