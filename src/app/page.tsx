@@ -85,6 +85,9 @@ export default function Home() {
       <section>
       <Link href="/proto/flutter">fct</Link>
       </section>
+      <section>
+      <Link href="/proto/babylon">babylon</Link>
+      </section>
     </main>
   )
 }
