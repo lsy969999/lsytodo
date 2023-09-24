@@ -8,7 +8,7 @@ const page = () => {
         window.addEventListener('flutterInAppWebViewPlatformReady', function(event){
             console.log('events', JSON.stringify(event))
         })
-    })
+    }, [])
     return (
         <>
             <div>Flutter test</div>
