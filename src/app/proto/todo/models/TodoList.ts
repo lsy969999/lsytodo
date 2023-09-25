@@ -1,4 +1,4 @@
-export interface TodoList{
+export interface TodoList { 
     id?: number;
     title: string;
 }

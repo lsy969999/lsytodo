@@ -89,7 +89,7 @@ export default function Home() {
       <Link href="/proto/babylon">babylon</Link>
       </section>
       <section>
-      <Link href="/proto/todo">babylon</Link>
+      <Link href="/proto/todo">todo</Link>
       </section>
     </main>
   )
