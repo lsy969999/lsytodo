@@ -15,3 +15,8 @@ editorjs install
 ```
 npm i @editorjs/editorjs --save
 ```
+
+babylonjs install
+```
+react-babylonjs @babylonjs/core @babylonjs/gui
+```
